@@ -55,7 +55,8 @@ miniGame.Open = function(data) {
 		>> STARTING DECRYPTOMATIC GUI <<~.~.~.~ ";
 	success = false;
 	newCode();
-	startTyping();
+	//startTyping();
+	startGame();
 }
 
 function newCode() {
